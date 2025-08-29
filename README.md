@@ -1,4 +1,4 @@
 # myRepo
 working and learning git
-author - mayuri doble
+author - mayuri doble mayuri
 ok
